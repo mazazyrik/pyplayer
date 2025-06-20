@@ -1,0 +1,6 @@
+PyQt5==5.15.9
+pydub==0.25.1
+sounddevice==0.4.6
+mutagen==1.46.0
+pyqtgraph==0.13.3
+requests==2.31.0 
